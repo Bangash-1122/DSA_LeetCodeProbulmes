@@ -38,4 +38,5 @@ function isAlphanumeric(char) {
 }
 
 console.log(isPalindrome("race car")); // Output: true
+console.log(isPalindrome("racescar")); // Output: false
 
